@@ -46,8 +46,8 @@ You can try the evidence! Apply a change here.
 
 ## Side-by-side
 
-Like the [Medium](https://medium.com/) component.
-<a href="http://example.com/" target="_blank">example</a>
+Like the <a href="http://example.com/" target="_blank">Medium</a> component.
+
 
 **Image** on the left and **Text** on the right:
 
