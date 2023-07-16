@@ -1,7 +1,7 @@
 ---
 title: "dont know whats happening"
 layout: post
-date: 2023-07-16 21:05
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: lucvzon
 description: Markdown summary with different options
 ---
 
