@@ -10,7 +10,7 @@ tag:
 - Cluster analysis
 star: true
 category: blog
-author: lucvzon
+author: jamesfoster
 description: Creating a tutorial for network analysis in R
 ---
 
