@@ -1,7 +1,7 @@
 ---
 title: "Network in R"
 layout: post
-date: 2023-07-16 19:38
+date: 2023
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
