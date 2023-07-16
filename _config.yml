@@ -54,6 +54,12 @@ authors:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
+  lucvzon:
+    name: Luc van Zon
+    bio: contact me at luc_zon@outlook.com
+    external-image: false
+    picture: assets/images/profile.png
+   
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,19 +82,19 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: []
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
