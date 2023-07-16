@@ -1,5 +1,5 @@
 ---
-title: "Create, cluster and visualize co-occurrence networks in R with igraph and ggraph"
+title: "Network in R"
 layout: post
 date: 2023-07-16 19:38
 image: /assets/images/markdown.jpg
