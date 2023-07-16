@@ -8,7 +8,6 @@ tag:
 - Network
 - R
 - Cluster analysis
-star: true
 category: blog
 author: lucvzon
 description: Creating a tutorial for network analysis in R
