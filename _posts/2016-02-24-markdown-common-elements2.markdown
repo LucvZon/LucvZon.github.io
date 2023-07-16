@@ -20,5 +20,5 @@ I have made a tutorial about creating, clustering and visualizing co-occurence n
 </div>
 ---
 
-![image](/assets/images/hclust_network.png)
+
 
